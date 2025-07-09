@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gomit32
-- 👀 I’m interested in Computer Science, Data Structures & Algorithms,Mchine Learning, Web Development,and Problem Solving.
+- 👀 I’m interested in Computer Science, Data Structures & Algorithms,Machine Learning, Web Development,and Problem Solving.
 - 🌱 I’m currently learning advanced concepts in Computer Science and honing my skills in Web Development.
 - 💞️ I’m looking to collaborate on exciting projects related to CSE, DSA, and Web Development.
 - 📫 How to reach me: gomit32@gmail.com 
